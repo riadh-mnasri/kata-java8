@@ -59,10 +59,6 @@ Most tests are annotated with `@Easy` which means those tests only requires basi
 
 Tests annotated with `@Difficult` are more difficult. :grin:
 
-## Where are the answers?
-
-Check the 'solution' branch, but please try to solve by yourself at first.
-
 ## Modules
 
 ### collection-interfaces
