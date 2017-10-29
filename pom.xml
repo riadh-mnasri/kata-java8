@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>java8-code-kata</groupId>
-    <artifactId>java8-code-kata</artifactId>
+    <groupId>kata-java8</groupId>
+    <artifactId>kata-java8</artifactId>
     <packaging>pom</packaging>
     <version>2.1</version>
     <modules>
